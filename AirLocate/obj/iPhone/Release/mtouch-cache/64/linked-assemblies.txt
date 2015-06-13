@@ -1,0 +1,4 @@
+/Users/tareyevgregory/Desktop/Study/Kursach/Around/AirLocate/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/tareyevgregory/Desktop/Study/Kursach/Around/AirLocate/obj/iPhone/Release/mtouch-cache/64/Link/AirLocation.exe
+/Users/tareyevgregory/Desktop/Study/Kursach/Around/AirLocate/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/tareyevgregory/Desktop/Study/Kursach/Around/AirLocate/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
